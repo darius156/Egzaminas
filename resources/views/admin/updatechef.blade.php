@@ -43,7 +43,7 @@
                 <input style="color:blue;" type="text" name="city" value="{{$data->city}}">
             </div>
             <div>
-                <input style="color:blue;"  type="submit" value="Update Chef">
+                <input style="color:blue;"  type="submit" value="Atnaujinti">
             </div>
         </form>
 
